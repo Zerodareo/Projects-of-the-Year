@@ -1,0 +1,111 @@
+body{
+    background-color: white;
+    height: 70em;
+    width: 100%;
+}
+#titlebody{
+    background-color: #18a5c1;
+    height: 15em;
+    margin-top: -42px;
+    margin-left: -45px;
+    margin-block-end: 14px;
+}
+h1{
+    text-align: left;
+    font-weight: bold;
+    margin-top: -8%;
+    font-family: 'Open Sans';
+    margin-left: 40%;
+    position: absolute;
+}
+.icon{
+    height: 22%;
+    margin-top: -11.5%;
+    position: absolute;
+    border-radius: 100%;
+    margin-left: 28%;
+}
+.localisationintro{
+    text-align: center;
+    font-size: 200%;
+}
+.lowpage{
+    background-color: #18a5c1;
+    height: 3em;
+    margin-top: 14.5%;
+    margin-left: -45px;
+}
+.foottext{
+    font-family: "Montserrat";
+    font-weight: bold;
+    text-align: center;
+    margin-top: -7%;
+}
+.localisationtext1{
+    font-size: larger;
+    font-family: 'Montserrat';
+    text-align: center;
+    font-weight: bold;
+}
+.map{
+    width: 30%;
+    height: 45%;
+    margin-left: 35%;
+}
+.localisationtext2{
+    font-size: larger;
+    font-family: 'Montserrat';
+    text-align: center;
+    font-weight: bold;
+}
+.square1{
+    width: 12%;
+    height: 22%;
+    background: #e3dddd;
+    margin-left: 5%;
+    margin-top: 2.5%;
+    position: absolute;
+}
+.textsquare{
+    text-align: center;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    color: #a58b00;
+}
+.firstpart{
+    font-size: 133%;
+    font-family: "Montserrat";
+    text-align: center;
+    font-weight: bold;
+    margin-top: -10%; 
+}
+.secondpart{
+    font-size: 120%;
+    font-family: "Montserrat";
+    font-weight: bolder;
+    margin-top: -10%;
+    margin-left: 13%;
+}
+.thirdpart{
+    font-size: 120%;
+    font-family: "Montserrat";
+    font-weight: bolder;
+    margin-top: -10%;
+    margin-left: 13%;
+}
+.goodluck{
+    width: 30%;
+    margin-top: -26%;
+    margin-left: 50%;
+}
+.mapcontent{
+    margin-left: 15%;
+}
+.explanation1{
+    width: 84.5%;
+    height: 18%;
+    background-color: #d6cece;
+    margin-top: 5%;
+    margin-left: 7%;
+    border-radius: 30px;
+}

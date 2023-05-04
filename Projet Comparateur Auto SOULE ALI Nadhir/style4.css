@@ -1,0 +1,129 @@
+body{
+    background-color: white;
+    height: 90em;
+    width: 100%;
+}
+#titlebody{
+    background-color: #18a5c1;
+    height: 15em;
+    margin-top: -42px;
+    margin-left: -45px;
+    margin-block-end: 14px;
+}
+h1{
+    text-align: left;
+    font-weight: bold;
+    margin-top: -8%;
+    font-family: 'Open Sans';
+    margin-left: 40%;
+    position: absolute;
+}
+#introductiontext{
+    height: 10em;
+    margin-top: 7%;
+    width: 99%;
+    font-size: 155%;
+    text-align: center;
+}
+.icon{
+    height: 22%;
+    margin-top: -11.5%;
+    position: absolute;
+    border-radius: 100%;
+    margin-left: 28%;
+}
+.bornetext1{
+    font-size: larger;
+    font-family: 'Montserrat';
+    text-align: center;
+    font-weight: bold;
+}
+.imagesection1{
+    width: 30%;
+    height: 30%;
+    background: green;
+    margin-left: 18%;
+    margin-top: 2%;
+}
+.image1{
+    box-shadow: 10px 5px 5px grey;
+    height: 100%;
+    width: 100%;
+}
+.image2{
+    box-shadow: 10px 5px 5px grey;
+    height: 100%;
+    width: 100%;
+}
+.image3{
+    box-shadow: 10px 5px 5px grey;
+    height: 100%;
+    width: 100%;
+    margin-top: -15%;
+}
+.image4{
+    box-shadow: 10px 5px 5px grey;
+    height: 100%;
+    width: 100%;
+    margin-top: -15%;
+}
+.imagesection2{
+    width: 30%;
+    height: 30.3%;
+    margin-left: 50%;
+    margin-top: -22.7%;
+}
+.imagesection3{
+    width: 30%;
+    height: 30%;
+    margin-top: 9%;
+    margin-left: 18%;
+}
+.imagesection4{
+    width: 30%;
+    height: 30%;
+    margin-top: -22.7%;
+    margin-left: 50%;
+}
+.bornetext2{
+    font-size: larger;
+    font-family: 'Montserrat';
+    text-align: center;
+    font-weight: bold;
+}
+.bornetext3{
+    font-size: larger;
+    font-family: 'Montserrat';
+    text-align: center;
+    font-weight: bold;
+}
+.explanation1{
+    width: 84.5%;
+    height: 9%;
+    background-color: #d6cece;
+    margin-top: 0%;
+    margin-left: 7%;
+    border-radius: 30px;
+}
+.rechargeborneintro{
+    text-align: center;
+    font-size: 200%;
+}
+.lowpage{
+    background-color: #18a5c1;
+    height: 3em;
+    margin-top: 26.5%;
+    margin-left: -45px;
+}
+.foottext{
+    font-family: "Montserrat";
+    font-weight: bold;
+    text-align: center;
+}
+.funnymessage{
+    font-weight: bolder;
+}
+.locationinfo{
+    margin-left: 30%;
+    margin-top: 1%;
+}

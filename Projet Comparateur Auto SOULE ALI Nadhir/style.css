@@ -1,0 +1,138 @@
+body{
+    background-color: white;
+    height: 85em;
+    width: 100%;
+}
+#titlebody{
+    background-color: #18a5c1;
+    height: 15em;
+    margin-top: -42px;
+    margin-left: -45px;
+    margin-block-end: 14px;
+}
+#introductiontext{
+    height: 10em;
+    margin-top: 5%;
+    width: 99%;
+    font-size: 135%;
+    text-align: center;
+}
+h1{
+    text-align: left;
+    font-weight: bold;
+    margin-top: -8%;
+    font-family: 'Open Sans';
+    margin-left: 40%;
+    position: absolute;
+}
+.firsttext{
+    font-family: 'Open Sans';
+    font-weight: 700;
+    margin-top: -2%;
+}
+.square1{
+    width: 12%;
+    height: 34%;
+    background: #e3dddd;
+    margin-left: 5%;
+    margin-top: 2.5%;
+    position: absolute;
+}
+.imagesection1{
+    width: 20%;
+    height: 200px;
+    background: green;
+    margin-left: 55%;
+}
+.imagesection2{
+    width: 20%;
+    height: 208px;
+    background: green;
+    margin-top: -10.5%;
+    margin-left: 25%;
+}
+.imagesection3{
+    width: 20%;
+    height: 208px;
+    background: green;
+    margin-top: 9%;
+    margin-left: 55%;
+}
+.imagesection4{
+    width: 20%;
+    height: 208px;
+    background: green;
+    margin-top: -11%;
+    margin-left: 25%;
+}
+.image1{
+    box-shadow: 10px 5px 5px grey;
+    height: 100%;
+    width: 100%;
+}
+.image2{
+    box-shadow: 10px 5px 5px grey;
+    height: 100%;
+}
+.image3{
+    box-shadow: 10px 5px 5px grey;
+    height: 100%;
+    width: 100%;
+}
+.image4{
+    box-shadow: 10px 5px 5px grey;
+    height: 100%;
+    width: 100%;
+}
+.subtitletext{
+    font-weight: lighter;
+}
+.icon{
+    height: 22%;
+    margin-top: -11.5%;
+    position: absolute;
+    border-radius: 100%;
+    margin-left: 28%;
+}
+.textsquare{
+    text-align: center;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    color: #a58b00;
+}
+.firstpart{
+    font-size: 133%;
+    font-family: "Montserrat";
+    text-align: center;
+    font-weight: bold;
+}
+.secondpart{
+    font-size: 120%;
+    font-family: "Montserrat";
+    font-weight: bolder;
+    margin-left: 12%;
+}
+.thirdpart{
+    font-size: 120%;
+    font-family: "Montserrat";
+    font-weight: bolder;
+    margin-left: 12%;
+}
+.lowpage{
+    background-color: #18a5c1;
+    height: 3em;
+    margin-top: 14.5%;
+    margin-left: -45px;
+}
+.foottext{
+    font-family: "Montserrat";
+    font-weight: bold;
+    text-align: center;
+}
+.instructions{
+    border-bottom: solid black;
+}
+.presentationintro{
+    text-align: center;
+    font-size: 200%;
+}

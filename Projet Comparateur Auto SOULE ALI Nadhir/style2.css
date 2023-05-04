@@ -1,0 +1,122 @@
+body{
+    background-color: white;
+    height: 90em;
+    width: 100%;
+}
+#titlebody{
+    background-color: #18a5c1;
+    height: 15em;
+    margin-top: -42px;
+    margin-left: -45px;
+    margin-block-end: 14px;
+}
+h1{
+    text-align: left;
+    font-weight: bold;
+    margin-top: -8%;
+    font-family: 'Open Sans';
+    margin-left: 40%;
+    position: absolute;
+}
+#introductiontext{
+    height: 10em;
+    margin-top: 7%;
+    width: 99%;
+    font-size: 155%;
+    text-align: center;
+}
+.icon{
+    height: 22%;
+    margin-top: -11.5%;
+    position: absolute;
+    border-radius: 100%;
+    margin-left: 28%;
+}
+.image1{
+    box-shadow: 10px 5px 5px grey;
+    height: 100%;
+    width: 100%;
+}
+.imagesection1{
+    width: 30%;
+    height: 30%;
+    background: green;
+    margin-left: 8%;
+}
+.bigsquare1{
+    width: 38.5%;
+    height: 15%;
+    background-color: #c5c1c1;
+    margin-top: 5%;
+    margin-left: 3%;
+}
+.imagesection2{
+    height: 30%;
+    margin-top: -39%;
+    margin-left: 52%;
+}
+.image2{
+    box-shadow: 10px 5px 5px grey;
+    height: 102%;
+    width: 67%;
+}
+.bigsquare2{
+    width: 38.5%;
+    height: 15%;
+    background-color: #c5c1c1;;
+    margin-top: 5%;
+    margin-left: 49%;
+}
+.explanation1{
+    width: 84.5%;
+    height: 15%;
+    background-color: #d6cece;
+    margin-top: 5%;
+    margin-left: 3%;
+}
+.bigsquare1text{
+    font-family: 'Montserrat';
+    font-size: larger;
+    text-align: center;
+    font-weight: bolder;
+}
+.bigsquare2text{
+    font-family: 'Montserrat';
+    font-size: larger;
+    text-align: center;
+    font-weight: bolder;
+}
+.lowpage{
+    background-color: #18a5c1;
+    height: 3em;
+    margin-top: 14.5%;
+    margin-left: -45px;
+}
+.foottext{
+    font-family: "Montserrat";
+    font-weight: bold;
+    text-align: center;
+}
+.explanationtext1{
+    font-family: 'Montserrat';
+    font-size: larger;
+    text-align: center;
+    font-weight: bolder;
+}
+.verificationtext{
+    background-color: #18a5c1;
+    font-family: 'Montserrat';
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 73px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.verification{
+    margin-left: 41%;
+    
+}
